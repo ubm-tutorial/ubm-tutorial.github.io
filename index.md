@@ -1,29 +1,34 @@
-# Neural Re-ranking Tutorial (RecSys 22)
+# User Behavior Modeling with Deep Learning for Recommendation: Recent Advances (RecSys 23)
 
 ## Abstract
-Re-ranking is one of the most critical stages for multi-stage recommender systems (MRS), which re-orders the input ranking lists by modeling the cross-item interaction. Recent re-ranking methods have evolved into deep neural architectures due to the significant advances in deep learning. Neural re-ranking, therefore, has become a trending topic and many of the improved algorithms have demonstrated their use in industrial applications, enjoying great commercial success. The purpose of this tutorial is to explore some of the recent work on neural re-ranking, integrating them into a broader picture and paving ways for more comprehensive solutions for future research. In particular, we provide a taxonomy of current methods according to the objectives and training signals. We examine and compare these methods qualitatively and quantitatively, and identify some open challenges and future prospects.
+User Behavior Modeling (UBM) plays a critical role in user interest learning, and has been extensively used in recommender systems. The exploration of key interactive patterns between users and items has yielded significant improvements and great commercial success across a variety of recommendation tasks. This tutorial aims to offer an in-depth exploration of this evolving research topic.
+We start by reviewing the research background of UBM, paving the way to a clearer understanding of the opportunities and challenges.
+Then, we present a systematic categorization of existing UBM research works, which can be categorized into four different directions including _Conventional UBM_, _Long-Sequence UBM_, _Multi-Type UBM_, and _UBM with Side Information_. To provide an expansive understanding, we delve into each category, discussing representative models while highlighting their respective strengths and weaknesses. Furthermore, we elucidate on the industrial applications of UBM methods, aiming to provide insights into the practical value of existing UBM solutions. Finally, we identify some open challenges and future prospects in UBM. This comprehensive tutorial serves to provide a solid foundation for anyone looking to understand and implement UBM in their research or business.
 
-Our survey paper: [Neural Re-ranking in Multi-stage Recommender Systems: A Review](https://arxiv.org/pdf/2202.06602.pdf)
+Our survey paper: [A Survey on User Behavior Modeling in Recommender Systems](https://arxiv.org/pdf/2302.11087.pdf)
 
-LibRerank re-ranking library: [https://github.com/LibRerank-Community/LibRerank](https://github.com/LibRerank-Community/LibRerank)
-
-Tutorial slides: [[Slides]](slides-recsys22-tutorial-neuralreranking.pdf)
 
 ## Outline of the tutorial
-* Introduction
-    * Recommender system basics
-    * Introduction to multi-stage recommender systems
-    * Neural re-ranking fundamentals: challenges, objectives, network structures, and evaluations
-* Single objective: Accuracy-oriented re-ranking
-    * Learning by observed signals
-    * Learning by counterfactual signals
-    * Qualitative model comparison: network structure, optimization, personalization, and complexity
-    * Quantitative comparison: LibRerank re-ranking library
-* Multi-objective re-ranking
-    * Diversity-aware re-ranking
-    * Fairness-aware re-ranking
-* Emerging applications 
-* Summary and future prospects 
+
+
+* Introduction (10min)
+   * Recommender system basics
+   * Problem formulation of user behavior modeling
+   * Taxonomy: Conventional UBM, Long-Sequence UBM, Multi-Type UBM, and UBM with Side Information
+* Conventional UBM (5min)
+   * Network structures: RNN, CNN, Attention
+* Long-Sequence UBM (15min)
+   * Memory-augmented methods
+   * User behavior retrieval methods
+* Multi-Type UBM (15min)
+   * Behavior type definition
+   * Multi-behavior fusion and prediction
+* UBM with Side Information (15min)
+   * Source of the side information
+   * Side information utilization
+* UBM with Deep Reinforcement Learning (10min)
+* Industrial practices and performances of online deployment (10min)
+* Summary and future prospects (10min)
 
 ## Presenters
 * [**Weiwen Liu**](https://wwliu555.github.io/). _Researcher, Huawei Noah’s Ark Lab_. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.
