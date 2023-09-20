@@ -5,8 +5,8 @@ User Behavior Modeling (UBM) plays a critical role in user interest learning, an
 We start by reviewing the research background of UBM, paving the way to a clearer understanding of the opportunities and challenges.
 Then, we present a systematic categorization of existing UBM research works, which can be categorized into four different directions including _Conventional UBM_, _Long-Sequence UBM_, _Multi-Type UBM_, and _UBM with Side Information_. To provide an expansive understanding, we delve into each category, discussing representative models while highlighting their respective strengths and weaknesses. Furthermore, we elucidate on the industrial applications of UBM methods, aiming to provide insights into the practical value of existing UBM solutions. Finally, we identify some open challenges and future prospects in UBM. This comprehensive tutorial serves to provide a solid foundation for anyone looking to understand and implement UBM in their research or business.
 
-Our survey paper: [A Survey on User Behavior Modeling in Recommender Systems](https://arxiv.org/pdf/2302.11087.pdf)
-Our slides: [User Behavior Modeling with Deep Learning for Recommendation: Recent Advances](ubm-tutorial-recsys23.pdf)
+* Our survey paper: [A Survey on User Behavior Modeling in Recommender Systems](https://arxiv.org/pdf/2302.11087.pdf)
+* Our slides: [User Behavior Modeling with Deep Learning for Recommendation: Recent Advances](ubm-tutorial-recsys23.pdf)
 
 
 ## Outline of the tutorial
