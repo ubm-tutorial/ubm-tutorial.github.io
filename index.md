@@ -34,7 +34,7 @@ Then, we present a systematic categorization of existing UBM research works, whi
 <img align="left" height=170 src="Weiwen Liu.png"/>
 
 
-* [**Weiwen Liu**](https://wwliu555.github.io/). _Researcher, Huawei Noah’s Ark Lab_. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.  
+[**Weiwen Liu**](https://wwliu555.github.io/). _Researcher, Huawei Noah’s Ark Lab_. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -42,7 +42,7 @@ Then, we present a systematic categorization of existing UBM research works, whi
 
 <img align="left" height=170 src="Yong Liu.png"/>
 
-* [**Yong Liu**](http://www.yongliu.org/). _Senior Principal Researcher, Huawei Noah's Ark Lab_. Prior to joining Huawei, he was a Senior Research Scientist at Nanyang Technological University (NTU), a Data Scientist at NTUC Enterprise, and a Research Scientist at Institute for Infocomm Research (I2R), A*STAR, Singapore. He received his Ph.D. degree in Computer Engineering from NTU in 2016 and B.S. degree in Electronic Science and Technology from University of Science and Technology of China (USTC) in 2008. His current research interests include Large Language Models, Search and Recommendation Systems. He has been invited as a Area Chair/(Senior) PC member of major conferences such as ICLR, NeurIPS, KDD, WWW, SIGIR, ACL, IJCAI, AAAI, and reviewer for IEEE/ACM transactions.
+[**Yong Liu**](http://www.yongliu.org/). _Senior Principal Researcher, Huawei Noah's Ark Lab_. Prior to joining Huawei, he was a Senior Research Scientist at Nanyang Technological University (NTU), a Data Scientist at NTUC Enterprise, and a Research Scientist at Institute for Infocomm Research (I2R), A*STAR, Singapore. He received his Ph.D. degree in Computer Engineering from NTU in 2016 and B.S. degree in Electronic Science and Technology from University of Science and Technology of China (USTC) in 2008. His current research interests include Large Language Models, Search and Recommendation Systems. He has been invited as a Area Chair/(Senior) PC member of major conferences such as ICLR, NeurIPS, KDD, WWW, SIGIR, ACL, IJCAI, AAAI, and reviewer for IEEE/ACM transactions.
 
 <img align="left" height=170 src="Wei Guo.png"/>
 
