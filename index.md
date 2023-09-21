@@ -12,24 +12,23 @@ Then, we present a systematic categorization of existing UBM research works, whi
 ## Outline of the tutorial
 
 
-* Introduction (10min)
-   * Recommender system basics
-   * Problem formulation of user behavior modeling
-   * Taxonomy: Conventional UBM, Long-Sequence UBM, Multi-Type UBM, and UBM with Side Information
-* Conventional UBM (5min)
-   * Network structures: RNN, CNN, Attention
-* Long-Sequence UBM (15min)
-   * Memory-augmented methods
-   * User behavior retrieval methods
-* Multi-Type UBM (15min)
-   * Behavior type definition
-   * Multi-behavior fusion and prediction
-* UBM with Side Information (15min)
-   * Source of the side information
-   * Side information utilization
-* UBM with Deep Reinforcement Learning (10min)
-* Industrial practices and performances of online deployment (10min)
-* Summary and future prospects (10min)
+1. Introduction (10min)   
+2. Conventional UBM (5min)  
+  2.1 Network structures: RNN, CNN, Attention  
+3. Long-Sequence UBM (15min)  
+  3.1 Memory-augmented methods  
+  3.2 User behavior retrieval methods  
+4. Multi-Type UBM (15min)    
+  4.1 Late fusion methods  
+  4.2 Early fusion methods  
+5. UBM with Side Information (15min)    
+  5.1 Time information  
+  5.2 Item attribute  
+  5.3 Multi-modal information  
+6. Industrial practices (10min)    
+7. New trends and techniques (10min)     
+  7.1 Reinforcement learning  
+  7.2 Large language models  
 
 ## Presenters
 * [**Weiwen Liu**](https://wwliu555.github.io/). _Researcher, Huawei Noah’s Ark Lab_. She received her Ph.D. in Computer Science and Engineering from the Chinese University of Hong Kong in 2020. Her research is broadly concerned with ranking/re-ranking, recommender systems, information retrieval, and user preference learning.
